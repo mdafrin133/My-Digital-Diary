@@ -1,12 +1,14 @@
-body{
-	font-family:Arial,san-serif;
-	Background-color:lightblue;
-	text-align:center;
-}
-h1{
-	text-color:purple;
-}
-p{
-	text-color=lightblue;
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+    text-align: center;
 }
 
+h1 {
+    color: purple;
+}
+
+p {
+    color: blue;
+}
